@@ -32,3 +32,6 @@ main{
 .product-info{
   padding: 1rem;
 }
+.img-image{
+  max-width: 100%;
+}
